@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DaFoxZero Blog</title>
+    <link>http://dafoxzero.github.io/post/</link>
+    <description>Recent content in Posts on DaFoxZero Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Mar 2016 21:52:40 -0600</lastBuildDate>
+    <atom:link href="http://dafoxzero.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>good to great</title>
+      <link>http://dafoxzero.github.io/post/good-to-great/</link>
+      <pubDate>Mon, 14 Mar 2016 21:52:40 -0600</pubDate>
+      
+      <guid>http://dafoxzero.github.io/post/good-to-great/</guid>
+      <description>&lt;p&gt;hola mundo adf ad fd d a dda  fa a safaff adfd ads f
+afadfafadfa a fa a faf as a fa fsdf a fa adfa a adfasfasdfa
+adfa a ad ad   dafafdfadfadf adf ad fa a  f af dfdf a df
+adfafa fdfadfadffad&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
